@@ -74,7 +74,11 @@ MonoBehaviour:
   m_MinSize: {x: 921, y: 492}
   m_MaxSize: {x: 16006, y: 14042}
   vertical: 0
+<<<<<<< HEAD
   controlID: 91
+=======
+  controlID: 40
+>>>>>>> main
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -246,7 +250,11 @@ MonoBehaviour:
   m_MinSize: {x: 645, y: 492}
   m_MaxSize: {x: 12005, y: 14042}
   vertical: 1
+<<<<<<< HEAD
   controlID: 148
+=======
+  controlID: 41
+>>>>>>> main
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -272,7 +280,11 @@ MonoBehaviour:
   m_MinSize: {x: 645, y: 221}
   m_MaxSize: {x: 12005, y: 4021}
   vertical: 0
+<<<<<<< HEAD
   controlID: 149
+=======
+  controlID: 42
+>>>>>>> main
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -330,7 +342,11 @@ MonoBehaviour:
     m_CachedPref: 215
     m_ControlHash: 1964396721
     m_PrefName: Preview_TilemapBrushInspector
+<<<<<<< HEAD
   m_Palette: {fileID: 4097530755844986729, guid: eaba60269b5b6904dba70174d1362e6c,
+=======
+  m_Palette: {fileID: 8752569541309564953, guid: c3f84b8be7bd9a84b90dceaf8924e0df,
+>>>>>>> main
     type: 3}
 --- !u!114 &14
 MonoBehaviour:
@@ -423,6 +439,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
+<<<<<<< HEAD
     - Assets
   m_ViewMode: 1
   m_StartGridSize: 64
@@ -437,6 +454,22 @@ MonoBehaviour:
     m_SelectedIDs: 163b0000
     m_LastClickedID: 15126
     m_ExpandedIDs: 00000000163b000000ca9a3b
+=======
+    - Assets/Tilemaps/Isometric/Colliders/ColliderTiles
+  m_ViewMode: 1
+  m_StartGridSize: 64
+  m_LastFolders:
+  - Assets/Tilemaps/Isometric/Colliders/ColliderTiles
+  m_LastFoldersGridSize: -1
+  m_LastProjectPath: H:\Unity\Legend of Ardenis
+  m_LockTracker:
+    m_IsLocked: 0
+  m_FolderTreeState:
+    scrollPos: {x: 0, y: 73}
+    m_SelectedIDs: 24410000
+    m_LastClickedID: 16676
+    m_ExpandedIDs: 00000000de3b000022410000264100002841000000ca9a3b
+>>>>>>> main
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -464,7 +497,11 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
+<<<<<<< HEAD
     m_ExpandedIDs: 00000000163b0000
+=======
+    m_ExpandedIDs: 00000000de3b0000
+>>>>>>> main
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -587,6 +624,7 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
+<<<<<<< HEAD
       m_SelectedIDs: 66390000
       m_LastClickedID: 14694
       m_ExpandedIDs: 5efbffff40390000
@@ -594,16 +632,32 @@ MonoBehaviour:
         m_UserAcceptedRename: 0
         m_Name: Level 3
         m_OriginalName: Level 3
+=======
+      m_SelectedIDs: 68490000
+      m_LastClickedID: 18792
+      m_ExpandedIDs: cef7ffffc2f8ffff62faffff0a3a00004249000062490000
+      m_RenameOverlay:
+        m_UserAcceptedRename: 0
+        m_Name: 
+        m_OriginalName: 
+>>>>>>> main
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
+<<<<<<< HEAD
         m_UserData: -4896
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
         m_OriginalEventType: 0
+=======
+        m_UserData: 0
+        m_IsWaitingForDelay: 0
+        m_IsRenaming: 0
+        m_OriginalEventType: 11
+>>>>>>> main
         m_IsRenamingFilename: 0
         m_ClientGUIView: {fileID: 5}
       m_SearchString: 
@@ -649,9 +703,15 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
+<<<<<<< HEAD
     m_Target: {x: 3.0781467, y: 0.9661989, z: 0.5}
     speed: 2
     m_Value: {x: 3.0781467, y: 0.9661989, z: 0.5}
+=======
+    m_Target: {x: -20516.75, y: -10259.875, z: 0.5}
+    speed: 2
+    m_Value: {x: -20516.748, y: -10259.874, z: 0.5}
+>>>>>>> main
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -701,9 +761,15 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
+<<<<<<< HEAD
     m_Target: 9.14368
     speed: 2
     m_Value: 8.749932
+=======
+    m_Target: 3467.0408
+    speed: 2
+    m_Value: 3630.4092
+>>>>>>> main
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -797,11 +863,19 @@ MonoBehaviour:
     m_DrawArea:
       serializedVersion: 2
       x: 0
+<<<<<<< HEAD
       y: 0
       width: 908
       height: 586
     m_Scale: {x: 1, y: 1}
     m_Translation: {x: 454, y: 293}
+=======
+      y: 21
+      width: 908
+      height: 565
+    m_Scale: {x: 1, y: 1}
+    m_Translation: {x: 454, y: 282.5}
+>>>>>>> main
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
@@ -809,9 +883,15 @@ MonoBehaviour:
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
       x: -454
+<<<<<<< HEAD
       y: -293
       width: 908
       height: 586
+=======
+      y: -282.5
+      width: 908
+      height: 565
+>>>>>>> main
     m_MinimalGUI: 1
   m_defaultScale: 1
   m_LastWindowPixelSize: {x: 908, y: 586}
