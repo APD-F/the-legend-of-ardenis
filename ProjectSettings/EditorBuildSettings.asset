@@ -4,26 +4,5 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes:
-  - enabled: 1
-    path: Assets/Scenes/Village Home.unity
-    guid: 54f58aa69809d7b40af174391995685c
-  - enabled: 1
-    path: Assets/Scenes/Village Exit.unity
-    guid: 569a1b1758dbb164eafce82731713d5c
-  - enabled: 1
-    path: Assets/Scenes/Mountain Base.unity
-    guid: 966bb66ceeb86b440a5c187a53e6d8f0
-  - enabled: 1
-    path: Assets/Scenes/Mountain Summit.unity
-    guid: a4a1bd7667602a544b458a5730ca3b9e
-  - enabled: 1
-    path: Assets/Scenes/Frozen Cave Floor 1.unity
-    guid: 8edde77421572b14186840afd52a4df1
-  - enabled: 1
-    path: Assets/Scenes/Frozen Cave Floor 2 Treasure.unity
-    guid: 42cc645780e8e3a41b7fdcabdd3fbc13
-  - enabled: 1
-    path: Assets/Scenes/Frozen Cave Floor 2 Exit.unity
-    guid: 8a3ceb9fa11ccbe4f9da8aba05891420
+  m_Scenes: []
   m_configObjects: {}
