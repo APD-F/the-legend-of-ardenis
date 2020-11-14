@@ -92,6 +92,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< Updated upstream
     width: 747
     height: 584
   m_MinSize: {x: 100, y: 121}
@@ -99,6 +100,15 @@ MonoBehaviour:
   vertical: 0
   controlID: 1485
 --- !u!114 &5
+=======
+    width: 379
+    height: 947
+  m_MinSize: {x: 276, y: 292}
+  m_MaxSize: {x: 4001, y: 8042}
+  vertical: 1
+  controlID: 119
+--- !u!114 &4
+>>>>>>> Stashed changes
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -189,8 +199,13 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
+<<<<<<< Updated upstream
   controlID: 4554
 --- !u!114 &9
+=======
+  controlID: 19
+--- !u!114 &8
+>>>>>>> Stashed changes
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -287,14 +302,22 @@ MonoBehaviour:
     height: 440
   m_MinSize: {x: 202, y: 221}
   m_MaxSize: {x: 4002, y: 4021}
-  m_ActualView: {fileID: 16}
+  m_ActualView: {fileID: 14}
   m_Panes:
   - {fileID: 19}
   - {fileID: 16}
+<<<<<<< Updated upstream
   - {fileID: 20}
   m_Selected: 1
   m_LastSelected: 1
 --- !u!114 &13
+=======
+  - {fileID: 14}
+  - {fileID: 17}
+  m_Selected: 1
+  m_LastSelected: 0
+--- !u!114 &12
+>>>>>>> Stashed changes
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -523,7 +546,7 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
+      m_SelectedIDs: ba420000
       m_LastClickedID: 0
       m_ExpandedIDs: 66fbffff
       m_RenameOverlay:
@@ -587,7 +610,11 @@ MonoBehaviour:
   m_Position:
     m_Target: {x: 0, y: 0, z: 0}
     speed: 2
+<<<<<<< Updated upstream
     m_Value: {x: -0.0069999695, y: 0, z: 0}
+=======
+    m_Value: {x: 9.595485, y: -3.776846, z: -10.603446}
+>>>>>>> Stashed changes
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -639,7 +666,11 @@ MonoBehaviour:
   m_Size:
     m_Target: 10
     speed: 2
+<<<<<<< Updated upstream
     m_Value: 0.0069999695
+=======
+    m_Value: 13.750369
+>>>>>>> Stashed changes
   m_Ortho:
     m_Target: 1
     speed: 2
