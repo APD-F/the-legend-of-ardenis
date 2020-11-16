@@ -67795,7 +67795,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
+<<<<<<< HEAD
   m_Script: {fileID: 11500000, guid: 83c8d37d500664cd589dc84f2feadcf3, type: 3}
+=======
+  m_Script: {fileID: 11500000, guid: 4cdbf138b015c4391acf7ee5fb9554ee, type: 3}
+>>>>>>> parent of 65170b5... Fixed slime walking animations
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!4 &1787286035 stripped
